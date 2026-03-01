@@ -15,7 +15,7 @@
     <InterpreterId>Global|PythonCore|3.13</InterpreterId>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
-    <CommandLineArguments>--ndrv sddrvs.tsk --nmap GEN_SEQ20000.MAP --nbin arle_tonext_0.bin --nseq arle_seqext_0.bin --nout outarle.ssf</CommandLineArguments>
+    <CommandLineArguments>]</CommandLineArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
